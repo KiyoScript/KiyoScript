@@ -13,7 +13,7 @@
                               
 - 🎮 Other things I like: <b>Playing Online Games, Anime, Cooking, <br>
   Listening to my Playlist 🎵, and Coding</b>
-- 📫 Send me an email: johnlloyd.desape@evsu.edu.ph<br>
+- 📫 Send me an email: johnlloyddesape@gmail.com <br>
 
 
 
