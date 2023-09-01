@@ -1,6 +1,6 @@
 <h1><b> Hello, I'm John Lloyd <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"></b></h1>
 
- a 2nd year college student who aspire to become a Weekend Developer✨<br>
+ a 3rd year college student who aspire to become a Weekend Developer and a man who'll used ninjutsu from east blue to the last Island to get the One Piece of 7 dragon ballzz.✨<br>
  
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
 
