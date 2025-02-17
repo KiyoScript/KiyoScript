@@ -2,13 +2,12 @@
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
 
 ## About Me 🚀
-- 🎓 3rd-year college student aspiring to become a Weekend Developer
-- 🏴‍☠️ Ninjutsu practitioner on a quest for the One Piece and 7 Dragon Balls
+- 🎓 4th-year college student aspiring to become a Junior Software engineer 
 
 ## "An investment in knowledge pays the best interest."
 
 ## 🎮 Other Interests
-- 🎵 Playing Online Games, Anime, Cooking, Coding
+- 🎵 Problem Solving, Playing Online Games, Anime, Cooking, Coding
 
 ## 📫 Contact Me
 - 📧 Email: johnlloyddesape@gmail.com
