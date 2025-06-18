@@ -2,7 +2,7 @@
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
 
 ## About Me 🚀
-- 🎓 4th-year college student aspiring to become a Junior Software engineer 
+🎓 Recent BS Information Technology graduate and Software Developer. I build web and application things that people use, ensuring they look good and work well. I use modern tools to create scalable and maintainable applications.
 
 ## "An investment in knowledge pays the best interest."
 
