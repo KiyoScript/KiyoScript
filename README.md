@@ -1,31 +1,65 @@
-# 👋 Hello, I'm John Lloyd! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
+<h1 align="center">Hello, I'm John Lloyd de Sape 👋</h1>
 
-## About Me 🚀
-🎓 Recent BS Information Technology graduate and Software Developer. I build web and application things that people use, ensuring they look good and work well. I use modern tools to create scalable and maintainable applications.
+<p align="center">
+🎓 A recent BS Information Technology graduate and Software Developer.<br>
+💻 I craft scalable, modern web and mobile applications that look great and work flawlessly.<br>
+🚀 I focus on writing clean, maintainable code using today's best technologies.
+</p>
 
-## "An investment in knowledge pays the best interest."
+<br/>
 
-## 🎮 Other Interests
-- 🎵 Problem Solving, Playing Online Games, Anime, Cooking, Coding
+<table align="center">
+  <tr>
+    <td width="65%">
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,typescript,tailwindcss,bootstrap,python,ruby,rails,c,sass,dart,flutter,laravel,javascript,svelte,vuejs,nextjs,aws" width="100%" />
+      </div>
+    </td>
+    <td align="right" valign="top" width="35%">
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" alt="Coding gif"/>
+    </td>
+  </tr>
+</table>
 
-## 📫 Contact Me
-- 📧 Email: johnlloyddesape@gmail.com
+<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kiyoscript/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KiyoScript)
+  <a href="https://www.facebook.com/KiyoScript" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  <a href="https://kiyoscript.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+</div>
+<br/>
 
-# 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyoScript&theme=dark&hide_border=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiyoScript&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiyoScript&layout=compact&theme=radical" height="165" />
+</div>
+
+---
+
+## 🎯 Hobbies & Interests
+
+- 🎮 **Gaming** – Strategy & RPGs are my go-to
+- 🧠 **Learning** – Always exploring new tools, languages, and frameworks
+- 🎧 **Music** – Indie, Lo-fi, EDM playlists power my focus
+- 🎬 **Tech Content** – YouTube tutorials, tech talks & dev vlogs
+- 🛠 **Building** – Passion projects, mini apps, and tinkering with code
+
+---
